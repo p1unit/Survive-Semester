@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153892223171",
+    "firebase_url": "https://survivesemester.firebaseio.com",
+    "project_id": "survivesemester",
+    "storage_bucket": "survivesemester.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153892223171:android:f33e5a93c663202f",
+        "android_client_info": {
+          "package_name": "sempaper.com.survivesemester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153892223171-l6vcakile6hg71n1okgh7pnvmespe3jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sempaper.com.survivesemester",
+            "certificate_hash": "1de90f2ca97d392b926787ef25f403a55d2fa0cb"
+          }
+        },
+        {
+          "client_id": "153892223171-bi5g89lvo2oeh2vb1l2s9fp9nnbn00r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLFFGmQFZHvw8FtJ0FPDPQy4wYZc29Ek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153892223171-bi5g89lvo2oeh2vb1l2s9fp9nnbn00r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
